@@ -15,7 +15,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
 
 export const metadata: Metadata = {
   title: "Zenvest",
-  description: "Zenvest is a mordern banking platform for everyone",
+  description: "Zenvest is a mordern banking platform for everyone.",
   icons: {
     icon:'/icons/logo.svg'
   }
